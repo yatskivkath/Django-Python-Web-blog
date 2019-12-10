@@ -25,7 +25,7 @@ SECRET_KEY = 'hlt7k-0^nf+ffv)zc)j-v#k8+%s430oq(2a_+m_i&3f$khs&og'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://coolchat200.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
