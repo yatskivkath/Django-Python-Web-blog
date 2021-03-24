@@ -6,5 +6,6 @@
 <ul>
 <li> Django </li>
 <li> Python </li>
+<li> HTML/CSS </li>
 </ul>
 </p>
